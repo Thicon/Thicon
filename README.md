@@ -1,10 +1,11 @@
-## Olá, meu nome é Thiago.
+## **Olá, meu nome é Thiago.**
 
 Atualmente estou fazendo o curso de **Ciência de Dados** da Hashtag Treinamentos, e um de **Estatística para DS** do professor Jones Granatyr, na plataforma Udemy.
 
 
 Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas de: EDA, Data Cleaning, Feature Engineering, Machine Learning, entre outras.
 
+##
 
 ### **Projetos que irei subir:**
 - Análise de dados de jogos do futebol inglês. (Kaggle)
@@ -12,6 +13,7 @@ Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas d
 - Previsão de Churn de uma empresa. (Kaggle)
 - Vendas de uma empresa nos EUA. (Kaggle)
 
+##
 
 ### **Conhecimentos:**
 <div style="display: inline ">
@@ -20,6 +22,7 @@ Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas d
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>            
 </div>  
 
+##
 
 ### **Links alternativos:**
 

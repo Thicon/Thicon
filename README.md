@@ -6,13 +6,6 @@ Atualmente estou fazendo o curso de **Ciência de Dados** da Hashtag Treinamento
 Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas de: EDA, Data Cleaning, Feature Engineering, Machine Learning, entre outras.
 
 
-### **Projetos que irei subir:**
-- Análise de dados de jogos do futebol inglês. (Kaggle)
-- Análise de vendas de vegetais em um supermercado. (Kaggle)
-- Previsão de Churn de uma empresa. (Kaggle)
-- Vendas de uma empresa nos EUA. (Kaggle)
-
-
 ### **Conhecimentos:**
 <div style="display: inline ">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> 

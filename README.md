@@ -17,7 +17,7 @@ Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas d
 ### **Links alternativos:**
 
 
-<a href="www.linkedin.com/in/thiago-consoli-5343b2231">
+<a href="https://www.linkedin.com/in/thiago-consoli-5343b2231/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 

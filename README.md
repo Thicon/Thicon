@@ -21,7 +21,7 @@ Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas d
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="www.kaggle.com/thiagoconsoli">
+<a href="https://www.kaggle.com/thiagoconsoli">
 <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
  

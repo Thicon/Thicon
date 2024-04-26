@@ -1,10 +1,16 @@
-## **Olá, meu nome é Thiago.**
+# **Olá, meu nome é Thiago.**
 
-Atualmente estou fazendo o curso de **Ciência de Dados** da Hashtag Treinamentos, e um outro de **Processamento de Linguagem Natural** do professor Jones Granatyr, na plataforma Udemy.
+Atualmente estou fazendo o curso de **Ciência de Dados** da "Hashtag Treinamentos", além de outros cursos específicos, em plataformas como a "Udemy", por exemplo.
 
+Nesse perfil você encontrará alguns projetos feitos por mim, que envolvem trabalhos com dados em geral, buscando adquirir informações e consequentemente conhecimento em cima disso.
 
-Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas de: EDA, Data Cleaning, Feature Engineering, Machine Learning, entre outras.
+### **Realizo etapas como:**
+- Limpeza de dados;
+- Análise exploratória e criação de insights;
+- Criação de modelos de Machine Learning: classificação, regressão e clusterização;
+- Criação de modelos de Deep Learning para tarefas como: Reconhecimento e diferenciação de classes de produtos
 
+Grande parte dos projetos postados foram feitos com o objetivo de evoluir na carreira de dados e aprender novas técnicas de trabalho. Tanto que podem ser notadas algumas diferenças nas qualidades de determinados projetos, que foram feitos em diferentes épocas.
 
 ### **Conhecimentos:**
 <div style="display: inline ">
@@ -14,7 +20,7 @@ Tenho alguns projetos que estão disponiveis no perfil, onde utilizo técnicas d
 </div>  
 
 
-### **Links alternativos:**
+### **Links:**
 
 
 <a href="https://www.linkedin.com/in/thiago-consoli-5343b2231/">

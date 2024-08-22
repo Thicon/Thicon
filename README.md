@@ -1,6 +1,6 @@
 # **Olá, meu nome é Thiago.**
 
-Atualmente estou fazendo o curso de **Ciência de Dados** da "Hashtag Treinamentos", além de outros cursos específicos, em plataformas como a "Udemy", por exemplo.
+Atualmente estou concluindo o curso de **Ciência de Dados** da "Hashtag Treinamentos".
 
 Nesse perfil você encontrará alguns projetos feitos por mim, que envolvem trabalhos com dados em geral, buscando adquirir informações e consequentemente conhecimento em cima disso.
 

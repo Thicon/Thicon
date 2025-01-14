@@ -1,14 +1,13 @@
 # **Olá, meu nome é Thiago.**
 
-Atualmente estou concluindo o curso de **Ciência de Dados** da "Hashtag Treinamentos".
-
-Nesse perfil você encontrará alguns projetos feitos por mim, que envolvem trabalhos com dados em geral, buscando adquirir informações e consequentemente conhecimento em cima disso.
+Sou estudante de Ciência de dados, e aqui posto alguns projetos pessoais.
 
 ### **Realizo etapas como:**
 - Limpeza de dados;
 - Análise exploratória e criação de insights;
 - Criação de modelos de Machine Learning: classificação, regressão e clusterização;
-- Criação de modelos de Deep Learning para tarefas como: Reconhecimento e diferenciação de classes de produtos
+- Criação de modelos de Deep Learning para tarefas como: Reconhecimento e diferenciação de classes de produtos;
+- Resolução de problemas com dados.
 
 Grande parte dos projetos postados foram feitos com o objetivo de evoluir na carreira de dados e aprender novas técnicas de trabalho. Tanto que podem ser notadas algumas diferenças nas qualidades de determinados projetos, que foram feitos em diferentes épocas.
 

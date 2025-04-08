@@ -1,21 +1,26 @@
-# **Olá, meu nome é Thiago.**
+# **Olá, meu nome é Thiago. Seja bem-vindo(a) ao meu perfil.**
 
-Sou estudante de Ciência de dados, e aqui posto alguns projetos pessoais.
+Atuo como analista/cientista de dados, e aqui posto alguns projetos pessoais.
 
-### **Realizo etapas como:**
-- Limpeza de dados;
-- Análise exploratória e criação de insights;
-- Criação de modelos de Machine Learning: classificação, regressão e clusterização;
-- Criação de modelos de Deep Learning para tarefas como: Reconhecimento e diferenciação de classes de produtos;
-- Resolução de problemas com dados.
+### **Realizo diferentes tarefas em projetos do dia a dia:**
+- Coleta de dados em banco de dados, arquivos e APIs;
+- Integração de dados de diferentes fontes;
+- Limpeza e tratamento de dados;
+- Análise exploratória e geração de insights;
+- Criação de modelos de Machine Learning para resolução de problemas;
+- Criação de Data Apps com Streamlit;
+- Automações funcionais e úteis com Python.
 
-Grande parte dos projetos postados foram feitos com o objetivo de evoluir na carreira de dados e aprender novas técnicas de trabalho. Tanto que podem ser notadas algumas diferenças nas qualidades de determinados projetos, que foram feitos em diferentes épocas.
+Os projetos são feitos com o objetivo de simular tarefas e demandas reais das empresas, explorando diferentes ferramentas que são utilizadas na área de dados.
 
 ### **Conhecimentos:**
 <div style="display: inline ">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>            
+ <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
 </div>  
 
 
